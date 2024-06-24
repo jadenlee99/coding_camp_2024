@@ -2,6 +2,7 @@ Using python as a calculator
 ============================
 
 Example notes
+   
     notes::
 
     This is an example note
@@ -10,4 +11,4 @@ Example notes
 
         Be careful
 
-Finished
+Finished using python as a calculator
