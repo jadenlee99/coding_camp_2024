@@ -1,5 +1,5 @@
-Using python as a calculater
-===================
+Using python as a calculator
+============================
 
 Example notes
     notes::
@@ -9,3 +9,5 @@ Example notes
     warning::
 
         Be careful
+
+Finished
