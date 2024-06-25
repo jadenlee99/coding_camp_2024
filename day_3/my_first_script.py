@@ -1,3 +1,8 @@
+import sys
+
 print('Hello World!')
-a = 'Something else!'
+a = sys.argv[1]
 print('a = '+a)
+
+b = input('Gimme something!')
+print(b)
